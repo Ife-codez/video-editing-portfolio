@@ -6,6 +6,7 @@ const edits = [
   { title: 'Algorithm hack reel', youtubeId: 'bb2gFyHkNxo' },
   { title: 'capcut coach reel', youtubeId: 'Qau1ucZ2RCc' },
   { title: 'Finance/AI coach reel', youtubeId: '_h3FtrvQfww' },
+  { title: 'Before Vs After of a product coach', youtubeId: '7h6GGuK6Hbk' },
 ]
 
 function Thumbnail({ id, title }) {
